@@ -2,7 +2,7 @@
 
 Source code corresponding to the paper “Yang Z, Pang Y, Li Q, et al. A model for early rumor detection base on topic-derived domain compensation and multi-user association[J]. Expert Systems with Applications, 2024: 123951.”
 
-Subsequently, the next version of the MisDerdect dataset link: https://github.com/yzhouli/SocialNet-Weibo/tree/master . The next version of the dataset will introduce multimodal data to reproduce real-world scenarios. Meanwhile, continuously collect and update the magnitude of the dataset.
+Subsequently, the next version of the MisDerdect dataset link: https://github.com/yzhouli/SocialNet-Weibo/tree/master . The next version of the dataset will introduce multimodal data to reproduce real-world environments. Meanwhile, continuously collect and update the magnitude of the dataset.
 
 # Model
 
